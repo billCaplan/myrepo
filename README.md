@@ -1,2 +1,2 @@
 hello, universe
-Author: Bill
+Author: Bill and Dan
